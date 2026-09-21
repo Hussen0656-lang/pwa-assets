@@ -1,0 +1,21 @@
+{
+  "short_name": "HussWelloye",
+  "name": "HussWelloye Insight",
+  "icons": [
+    {
+      "src": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgfMvYAhabHks1BA24JMwb2Tavd6KlGvIwztID3Cq4VpV96HaJfY0v1UotZISSm_69m5PQH23sRao8N3eSEInahqBtr7L1OU58m_w59IvDyvjnMcbq3FkW4JSbacqkbxToiB9Dkq0tCese92xFvPe_tglfg/s1600/icon.png",
+      "type": "image/png",
+      "sizes": "192x192"
+    },
+    {
+      "src": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgfMvYAhabHks1BA24JMwb2Tavd6KlGvIwztID3Cq4VpV96HaJfY0v1UotZISSm_69m5PQH23sRao8N3eSEInahqBtr7L1OU58m_w59IvDyvjnMcbq3FkW4JSbacqkbxToiB9Dkq0tCese92xFvPe_tglfg/s1600/icon.png",
+      "type": "image/png",
+      "sizes": "512x512"
+    }
+  ],
+  "start_url": "/",
+  "background_color": "#121212",
+  "theme_color": "#121212",
+  "display": "standalone",
+  "orientation": "portrait"
+}
